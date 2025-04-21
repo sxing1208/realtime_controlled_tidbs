@@ -1,15 +1,15 @@
-#Realtime Controlled TIDBS
+# Realtime Controlled TIDBS
 
-"A resposive, realtime solution for symptom-based dosing for TIDBS"
+*A resposive, realtime solution for symptom-based dosing for TIDBS*
 
-##Model
+## Model
 
 Legacy model based on simulated tremor data for tremor detection.
 
-##NewModel
+## NewModel
 
 Model under development based on real Parkinson's disease data.
 
-##Terminal
+## Terminal
 
 Example Realtime terminal with BLE and DL network.
